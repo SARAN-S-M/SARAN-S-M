@@ -47,11 +47,6 @@ Currently focusing on improving my skills in AI/ML, and exploring advanced backe
 
 Let's connect and build something amazing together!
 
----
-
-Feel free to customize this further to match your personal style or highlight more of your work and achievements! Once edited, save the README file, and it will automatically be displayed on your GitHub profile page.
-
-
 <!--
 **SARAN-S-M/SARAN-S-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
