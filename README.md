@@ -41,7 +41,7 @@ Currently focusing on improving my skills in AI/ML, and exploring advanced backe
 
 ## 📫 How to Reach Me
 
-- **Email**: [saran.al22@bitsathy.ac.in](mailto:saran.al22@bitsathy.ac.in)
+- **Email**: [smsaranmgp@gmail.com](mailto:smsaranmgp@gmail.com)
 - **LinkedIn**: [Saran S M](https://www.linkedin.com/in/saran-s-m/)
 - **GitHub**: [SARAN-S-M](https://github.com/SARAN-S-M)
 
